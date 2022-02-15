@@ -1,6 +1,6 @@
-# BOOST-Ising
+# BOOST-MI
 
-BOOST-Ising is a method to detect spatially variable (SV) genes in spatial transcriptomics (ST) datasets. It is a Bayesian modeling framework for the analysis of single-gene count data on a large-scale lattice defined by a number of array spots. For each gene, expression counts are clustered into two groups - high-expression level and low-expression level, and spatial pattern is defined by the interaction between these two groups in a modified Ising model. 
+BOOST-MI (BOOST-Ising) is a method to detect spatially variable (SV) genes in spatial transcriptomics (ST) datasets. It is a Bayesian modeling framework for the analysis of single-gene count data on a large-scale lattice defined by a number of array spots. For each gene, expression counts are clustered into two groups - high-expression level and low-expression level, and spatial pattern is defined by the interaction between these two groups in a modified Ising model. 
 
 # How to use BOOST-Ising functions
 
